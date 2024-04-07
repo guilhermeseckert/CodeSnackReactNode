@@ -35,18 +35,25 @@ Dive into our collection of utilities, components, hooks, and middleware designe
 - **shadcn-drag-table**: A drag-and-drop table component using shadcn/ui and Next.js. [Learn more](https://github.com/zenoncao/shadcn-drag-table). 
 - **file-vault**: File upload component for React. [Learn more](https://github.com/ManishBisht777/file-vault). 
 - **plate**: The rich-text editor for React. [Learn more](https://github.com/udecode/plate).
-- - **react-tailwindcss-datepicker**: Modern date range picker component for React using Tailwind 3 and dayjs. Alternative to Litepie Datepicker. [Learn more](https://github.com/onesine/react-tailwindcss-datepicker).
+- **react-tailwindcss-datepicker**: Modern date range picker component for React using Tailwind 3 and dayjs. Alternative to Litepie Datepicker. [Learn more](https://github.com/onesine/react-tailwindcss-datepicker).
 - **date-range-picker-for-shadcn**: DateRangePicker is a reusable component for shadcn using Radix UI and Tailwind CSS. Includes preset date ranges, text entry, calendar selection and date comparison. [Learn more](https://github.com/johnpolacek/date-range-picker-for-shadcn)
 - **clerk-shadcn-theme**: Easily synchronize your Clerk <SignIn /> and <SignUp /> components with your shadcn/ui styles. [Learn more](https://github.com/stormynight9/clerk-shadcn-theme)
 - **shadcn-sidebar**: This is a prebuild template NextJS using shadcn/ui. [Learn more](https://github.com/Yudian00/shadcn-sidebar)
 - **autocomplete-select-shadcn-ui**: Autocomplete component built with shadcn/ui and Fancy Multi Select by Maximilian Kaske. [Learn more](https://www.armand-salle.fr/post/autocomplete-select-shadcn-ui)
 - **shadcn-data-table-advanced-col-opions**: Column-resizing option to shadcn/ui DataTable. [Learn more](https://github.com/danielagg/shadcn-data-table-advanced-col-opions)
 - **pricing-page-shadcn**: Pricing Page made with shadcn/ui & Next.js 14. Completely customizable [Learn more](https://github.com/m4nute/pricing-page-shadcn)
+- **Gsap** - Whether you're animating Ul, SVG or creating immersive WebGL
+experience. [learn more](https://gsap.com/)
 
 ### Tools
 - **v0** - Vercel's generative UI system, built on shadcn/ui and TailwindCSS, allows effortless UI generation from text prompts and/or images. It produces React and HTML code, integration is also possible via v0 CLI command. [Learm more](https://v0.dev/)
 - **Shadcn-pricing-page-generator** - The easiest way to get a React pricing page with shadcn/ui, Radix UI and/or Tailwind CSS. [Learn more](https://shipixen.com/shadcn-pricing-page)
 - **Invoify** - An invoice generator app built using Next.js, Typescript, and shadcn/ui [Learn more](https://github.com/aliabb01/invoify)
+- 
+### AI/voice
+
+- **vapi** - Vapi is the dedicated Voice AI platform for developers [lern more](https://vapi.ai/)
+
 
 
 
