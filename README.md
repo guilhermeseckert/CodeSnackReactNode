@@ -44,15 +44,19 @@ Dive into our collection of utilities, components, hooks, and middleware designe
 - **pricing-page-shadcn**: Pricing Page made with shadcn/ui & Next.js 14. Completely customizable [Learn more](https://github.com/m4nute/pricing-page-shadcn)
 - **Gsap** - Whether you're animating Ul, SVG or creating immersive WebGL
 experience. [learn more](https://gsap.com/)
+- **Bueri** - Buerli offers seamless integration between interactive CAD modeling and programming. With our APIs, web developers can program CAD models interactively, just like designers do. [learn more](
+https://buerli.io)
 
 ### Tools
 - **v0** - Vercel's generative UI system, built on shadcn/ui and TailwindCSS, allows effortless UI generation from text prompts and/or images. It produces React and HTML code, integration is also possible via v0 CLI command. [Learm more](https://v0.dev/)
 - **Shadcn-pricing-page-generator** - The easiest way to get a React pricing page with shadcn/ui, Radix UI and/or Tailwind CSS. [Learn more](https://shipixen.com/shadcn-pricing-page)
 - **Invoify** - An invoice generator app built using Next.js, Typescript, and shadcn/ui [Learn more](https://github.com/aliabb01/invoify)
-- 
+- **Spline** - Create 3D objects, edit materials, add interactivity, and export.[learn more](https://spline.design/)
+
 ### AI/voice
 
 - **vapi** - Vapi is the dedicated Voice AI platform for developers [lern more](https://vapi.ai/)
+
 
 
 
