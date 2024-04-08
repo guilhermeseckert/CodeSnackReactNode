@@ -42,17 +42,19 @@ Dive into our collection of utilities, components, hooks, and middleware designe
 - **autocomplete-select-shadcn-ui**: Autocomplete component built with shadcn/ui and Fancy Multi Select by Maximilian Kaske. [Learn more](https://www.armand-salle.fr/post/autocomplete-select-shadcn-ui)
 - **shadcn-data-table-advanced-col-opions**: Column-resizing option to shadcn/ui DataTable. [Learn more](https://github.com/danielagg/shadcn-data-table-advanced-col-opions)
 - **pricing-page-shadcn**: Pricing Page made with shadcn/ui & Next.js 14. Completely customizable [Learn more](https://github.com/m4nute/pricing-page-shadcn)
-- **Gsap** - Whether you're animating Ul, SVG or creating immersive WebGL
+- **Gsap**: Whether you're animating Ul, SVG or creating immersive WebGL
 experience. [learn more](https://gsap.com/)
-- **Bueri** - Buerli offers seamless integration between interactive CAD modeling and programming. With our APIs, web developers can program CAD models interactively, just like designers do. [learn more](
+- **Bueri**: Buerli offers seamless integration between interactive CAD modeling and programming. With our APIs, web developers can program CAD models interactively, just like designers do. [learn more](
 https://buerli.io)
 
 ### Tools
-- **v0** - Vercel's generative UI system, built on shadcn/ui and TailwindCSS, allows effortless UI generation from text prompts and/or images. It produces React and HTML code, integration is also possible via v0 CLI command. [Learm more](https://v0.dev/)
+- **v0**: Vercel's generative UI system, built on shadcn/ui and TailwindCSS, allows effortless UI generation from text prompts and/or images. It produces React and HTML code, integration is also possible via v0 CLI command. [Learm more](https://v0.dev/)
 - **Shadcn-pricing-page-generator** - The easiest way to get a React pricing page with shadcn/ui, Radix UI and/or Tailwind CSS. [Learn more](https://shipixen.com/shadcn-pricing-page)
-- **Invoify** - An invoice generator app built using Next.js, Typescript, and shadcn/ui [Learn more](https://github.com/aliabb01/invoify)
-- **Spline** - Create 3D objects, edit materials, add interactivity, and export.[learn more](https://spline.design/)
-- **Scribe** - Use the Scribe Chrome extension to automatically generate step-by-step guides for any process in seconds. [Learn more](https://get.scribehow.com/install-extension/)
+- **Invoify**: An invoice generator app built using Next.js, Typescript, and shadcn/ui [Learn more](https://github.com/aliabb01/invoify)
+- **Spline**: Create 3D objects, edit materials, add interactivity, and export.[learn more](https://spline.design/)
+- **Scribe**: Use the Scribe Chrome extension to automatically generate step-by-step guides for any process in seconds. [Learn more](https://get.scribehow.com/install-extension/)
+- **ts-migrate**: A tool to help migrate JavaScript code quickly and conveniently to TypeScript. [Learn more](https://github.com/airbnb/ts-migrate)
+
 
 ### AI/voice
 
