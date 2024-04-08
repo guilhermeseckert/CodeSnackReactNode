@@ -52,6 +52,7 @@ https://buerli.io)
 - **Shadcn-pricing-page-generator** - The easiest way to get a React pricing page with shadcn/ui, Radix UI and/or Tailwind CSS. [Learn more](https://shipixen.com/shadcn-pricing-page)
 - **Invoify** - An invoice generator app built using Next.js, Typescript, and shadcn/ui [Learn more](https://github.com/aliabb01/invoify)
 - **Spline** - Create 3D objects, edit materials, add interactivity, and export.[learn more](https://spline.design/)
+- **Scribe** - Use the Scribe Chrome extension to automatically generate step-by-step guides for any process in seconds. [Learn more](https://get.scribehow.com/install-extension/)
 
 ### AI/voice
 
